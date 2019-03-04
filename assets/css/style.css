@@ -21,3 +21,6 @@ img {
 #stats {
     text-align: center;
 }
+.gem:hover {
+    opacity: 0.5;
+}
