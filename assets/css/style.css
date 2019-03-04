@@ -1,0 +1,23 @@
+h2 {
+    margin-top: 20px;
+    text-align: center;
+}
+#instructions {
+    margin-top: 30px;
+    margin-left: 300px;
+}
+#instructions h4 {
+    margin-left: 250px;
+}
+#gems {
+    margin-left: 170px;
+}
+img {
+    height: 200px;
+}
+#score h4 {
+    text-align: center;
+}
+#stats {
+    text-align: center;
+}
