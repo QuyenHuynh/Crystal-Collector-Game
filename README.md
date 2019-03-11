@@ -5,7 +5,7 @@ Crystal Collector Game
 ![Screenshot](screenshot.png)
 
 This game was created as an assignment for Georgia Tech's Coding Boot Camp.
-Created using HTML, CSS, Boostrap, JavaScript, and jQuery.
+Created using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
 How to play:
 * You will be given a random target number at the start of the game between 19-120.
