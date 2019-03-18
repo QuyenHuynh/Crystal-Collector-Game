@@ -15,6 +15,5 @@ How to play:
 * If you surpass the target number, you lose.
 * The game will reset after every win/loss, and the crystal values will be randomized again.
 
-I intentionally decided to not style this much, because I used real pictures of raw gems.
 The gems displayed are jadeite, kuznite, nephrite, and zoisite.
 I chose these gems, because they are Endymion's four knights from Sailor Moon :)
