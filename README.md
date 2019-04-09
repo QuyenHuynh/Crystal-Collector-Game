@@ -1,6 +1,5 @@
-# unit-4-game
+# Crystal Collector Game
 
-Crystal Collector Game
 
 ![Screenshot](screenshot.png)
 
